@@ -1,0 +1,313 @@
+city_id,city
+cityid-2,Aberdeen
+cityid-3,Airway Heights
+cityid-4,Algona
+cityid-5,Allyn
+cityid-6,Amboy
+cityid-7,Anacortes
+cityid-8,Ariel
+cityid-9,Arlington
+cityid-10,Ashford
+cityid-11,Auburn
+cityid-12,Aurora
+cityid-13,Bainbridge Island
+cityid-14,Ballard
+cityid-15,Battle Ground
+cityid-16,Beaux Arts
+cityid-17,Belfair
+cityid-18,Bellevue
+cityid-19,Bellingham
+cityid-20,Benton City
+cityid-21,Bingen
+cityid-22,Black Diamond
+cityid-23,Blaine
+cityid-24,Bonney Lake
+cityid-25,Bothell
+cityid-26,Bow
+cityid-27,Bremerton
+cityid-28,Brewster
+cityid-29,Bridgeport
+cityid-30,Brier
+cityid-31,Brinnon
+cityid-32,Brush Prairie
+cityid-33,Buckley
+cityid-34,Buena Park
+cityid-35,Burien
+cityid-36,Burlington
+cityid-37,Camano
+cityid-38,Camano Island
+cityid-39,Camas
+cityid-40,Carlisle
+cityid-41,Carnation
+cityid-42,Carson
+cityid-43,Castle Rock
+cityid-44,Cathlamet
+cityid-45,Centralia
+cityid-46,Chattaroy
+cityid-47,Chehalis
+cityid-48,Chelan
+cityid-49,Cheney
+cityid-50,Chimacum
+cityid-51,Clarkston
+cityid-52,Cle Elum
+cityid-53,Clinton
+cityid-54,Clyde Hill
+cityid-55,Colbert
+cityid-56,College Place
+cityid-57,Colville
+cityid-58,Concrete
+cityid-59,Connell
+cityid-60,Cook
+cityid-61,Copalis Crossing
+cityid-62,Cosmopolis
+cityid-63,Cougar
+cityid-64,Coulee City
+cityid-65,Coulee Dam
+cityid-66,Coupeville
+cityid-67,Covington
+cityid-68,Cowiche
+cityid-69,Custer
+cityid-70,Darrington
+cityid-71,Davenport
+cityid-72,Dayton
+cityid-73,Deer Park
+cityid-74,Deming
+cityid-75,Des Moines
+cityid-76,Dupont
+cityid-77,Duvall
+cityid-78,East Wenatchee
+cityid-79,Easton
+cityid-80,Eastsound
+cityid-81,Edgewood
+cityid-82,Edmonds
+cityid-83,Elizabethtown
+cityid-84,Ellensburg
+cityid-85,Elma
+cityid-86,Entiat
+cityid-87,Enumclaw
+cityid-88,Ephrata
+cityid-89,Everett
+cityid-90,Everson
+cityid-91,Fairchild AFB
+cityid-92,Fall City
+cityid-93,Federal Way
+cityid-94,Ferndale
+cityid-95,Fife
+cityid-96,Fircrest
+cityid-97,Forks
+cityid-98,Fort Lewis
+cityid-99,Fox Island
+cityid-100,Fredericksburg
+cityid-101,Freeland
+cityid-102,Friday Harbor
+cityid-103,Gig Harbor
+cityid-104,Glacier
+cityid-105,Glenoma
+cityid-106,Gold Bar
+cityid-107,Goldendale
+cityid-108,Graham
+cityid-109,Grandview
+cityid-110,Granger
+cityid-111,Granite Falls
+cityid-112,Grapeview
+cityid-113,Grayland
+cityid-114,Greenacres
+cityid-115,Greenbank
+cityid-116,Hansville
+cityid-117,Hoquiam
+cityid-118,Hunts Point
+cityid-119,Indianola
+cityid-120,Issaquah
+cityid-121,Joint Base Lewis Mcchord
+cityid-122,Joint base lewis-mcchord
+cityid-123,Kalama
+cityid-124,Kelso
+cityid-125,Kenmore
+cityid-126,Kennewick
+cityid-127,Kent
+cityid-128,Kettle Falls
+cityid-129,Keyport
+cityid-130,Kingston
+cityid-131,Kirkland
+cityid-132,La Center
+cityid-133,La Conner
+cityid-134,Lacey
+cityid-135,Lake Forest Park
+cityid-136,Lake Stevens
+cityid-137,Lake Tapps
+cityid-138,Lakebay
+cityid-139,Lakewood
+cityid-140,Langley
+cityid-141,lBurien
+cityid-142,Leavenworth
+cityid-143,Liberty Lake
+cityid-144,Libertyville
+cityid-145,Long Beach
+cityid-146,Longmire
+cityid-147,Longview
+cityid-148,Loon Lake
+cityid-149,Lopez
+cityid-150,Lopez Island
+cityid-151,Lyle
+cityid-152,Lynden
+cityid-153,Lynnwood
+cityid-154,Lynwood
+cityid-155,Manson
+cityid-156,Maple Falls
+cityid-157,Maple Valley
+cityid-158,Marrowstone
+cityid-159,Marysville
+cityid-160,Maryville
+cityid-161,Mazama
+cityid-162,Mccleary
+cityid-163,Mead
+cityid-164,Medical Lake
+cityid-165,Medina
+cityid-166,Mercer Island
+cityid-167,Mill Creek
+cityid-168,Milton
+cityid-169,Moclips
+cityid-170,Monroe
+cityid-171,Morton
+cityid-172,Moses Lake
+cityid-173,Mossyrock
+cityid-174,Mount Vernon
+cityid-175,Mountlake Terrace
+cityid-176,Moxee
+cityid-177,Mt Vernon
+cityid-178,Mt. Vernon
+cityid-179,Mukilteo
+cityid-180,Naches
+cityid-181,Nahcotta
+cityid-182,Neah Bay
+cityid-183,Newcastle
+cityid-184,Newman Lake
+cityid-185,Newport
+cityid-186,Nine Mile Falls
+cityid-187,Nordland
+cityid-188,Normandy Park
+cityid-189,North Bend
+cityid-190,Oak Harbor
+cityid-191,Ocean Shores
+cityid-192,Olalla
+cityid-193,Olga
+cityid-194,Olympia
+cityid-195,Omak
+cityid-196,Orcas
+cityid-197,Oroville
+cityid-198,Orting
+cityid-199,Othello
+cityid-200,Otis Orchards
+cityid-201,Outlook
+cityid-202,Pacific
+cityid-203,Parkland
+cityid-204,Pasco
+cityid-205,Pateros
+cityid-206,Point Roberts
+cityid-207,Port Angeles
+cityid-208,Port Hadlock
+cityid-209,Port Ludlow
+cityid-210,Port Orchard
+cityid-211,Port Townsend
+cityid-212,Poulsbo
+cityid-213,Preston
+cityid-214,Prosser
+cityid-215,Pullman
+cityid-216,Puyallup
+cityid-217,Quil Ceda Village
+cityid-218,Quilcene
+cityid-219,Quinault
+cityid-220,Quincy
+cityid-221,Rainier
+cityid-222,Ravensdale
+cityid-223,Redmond
+cityid-224,Renton
+cityid-225,Richalnd
+cityid-226,Richland
+cityid-227,Ridgefield
+cityid-228,Ritzville
+cityid-229,Roche Harbor
+cityid-230,Rochester
+cityid-231,Rockport
+cityid-232,Roosevelt
+cityid-233,Rosalia
+cityid-234,Roy
+cityid-235,Royal City
+cityid-236,Ruston
+cityid-237,Sammamish
+cityid-238,San Diego
+cityid-239,Sea Tac
+cityid-240,Seabeck
+cityid-241,Seatac
+cityid-242,Seattle
+cityid-243,Seaview
+cityid-244,Sedro-Woolley
+cityid-245,Selah
+cityid-246,Sequim
+cityid-247,Shelton
+cityid-248,Shoreline
+cityid-249,Silverdale
+cityid-250,Silverlake
+cityid-251,Skykomish
+cityid-252,Snohomish
+cityid-253,Snoqualmie
+cityid-254,Snoqualmie Pass
+cityid-255,Snowden
+cityid-256,Soap Lake
+cityid-257,South Cle Elum
+cityid-258,South Hill
+cityid-259,Spanaway
+cityid-260,Spangle
+cityid-261,Spokane
+cityid-262,Spokane Valley
+cityid-263,Sprague
+cityid-264,Spring Lake
+cityid-265,Stanwood
+cityid-266,Stehekin
+cityid-267,Steilacoom
+cityid-268,Stevenson
+cityid-269,Sultan
+cityid-270,Sumas
+cityid-271,Sumner
+cityid-272,Sunnyside
+cityid-273,Suquamish
+cityid-274,Tacoma
+cityid-275,Tahuya
+cityid-276,Tenino
+cityid-277,Tonasket
+cityid-278,Toppenish
+cityid-279,Townsend
+cityid-280,Tukwila
+cityid-281,Tulalip
+cityid-282,Tumwater
+cityid-283,Twisp
+cityid-284,Underwood
+cityid-285,Union
+cityid-286,Union Gap
+cityid-287,University Place
+cityid-288,Vancouver
+cityid-289,Vashon
+cityid-290,Veradale
+cityid-291,Vista Dr
+cityid-292,Waitsburg
+cityid-293,Walla Walla
+cityid-294,Wallula
+cityid-295,Wapato
+cityid-296,Warden
+cityid-297,Washougal
+cityid-298,Waterville
+cityid-299,Wenatchee
+cityid-300,West Richland
+cityid-301,Westport
+cityid-302,White Salmon
+cityid-303,Winlock
+cityid-304,Winthrop
+cityid-305,Woodinville
+cityid-306,Woodland
+cityid-307,Woodway
+cityid-308,Yacolt
+cityid-309,Yakima
+cityid-310,Yarrow Point
+cityid-311,Yelm
+cityid-312,Zillah
+cityid-313,SeaTac
