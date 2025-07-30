@@ -1,4 +1,4 @@
-# EV-Charging-Impact-Analysis - Project-3-Team-3-DE
+# ev-charging-impact-analysis - project-3-team-3-de
 U of T Bootcamp project on Data Engineering
 
 Problem statement: 
